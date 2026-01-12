@@ -1,2 +1,2 @@
 # Tekkaman
-A javascript-like lanaguage base on bellard's QuickJS
+A javascript-like lanaguage base on bellard's MQuickJS
